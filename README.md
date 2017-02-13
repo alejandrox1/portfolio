@@ -12,3 +12,6 @@ Repo under construction:
 * [Implementation of Supervised Learning Algorithms with Example Applications]( )
 * [Implementation of Unsupervised Learning Algorithms with Example Applications]( )
 * [Implementation of Deep Learning Algorithms with Example Applications]( )
+* [Calculating the Mechanical Properties of Nanoscale Materials]( )
+* [Electronic Calculations of Carbon Chains]( )
+* [Osmotic Pressure Calculations from Molecular Dynamics Simulations]( )
