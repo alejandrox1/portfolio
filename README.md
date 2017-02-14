@@ -8,7 +8,7 @@ Repo under construction:
 
 ## Table of contents
 * [Data for Democracy: Using Data Science for Social Good](https://github.com/alejandrox1/tutorials)
-  Part of an ongoing effort with [Data for Democracy])(http://datafordemocracy.org/)
+  Part of an ongoing effort with [Data for Democracy](http://datafordemocracy.org/)
 * [Data Science by Example: Kaggle Compatitions](https://github.com/alejandrox1/kaggle)
   Ongoing project to curate educational material for Data Science.
 * [Implementation of Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms with Example Applications](https://github.com/alejandrox1/MachineLearning)
