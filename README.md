@@ -1,11 +1,6 @@
 # portfolio
 Data science portfolio
 
-Repo under construction: 
-* Fix broken links
-* Clean presentation and upload to github
-* continue working
-
 ## Table of contents
 * [Data for Democracy: Using Data Science for Social Good](https://github.com/alejandrox1/tutorials)
   Part of an ongoing effort with [Data for Democracy](http://datafordemocracy.org/)
