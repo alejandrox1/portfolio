@@ -5,14 +5,14 @@ Data science portfolio
 * [Data for Democracy: Using Data Science for Social Good](https://github.com/alejandrox1/tutorials) <br/>
   Part of an ongoing effort with [Data for Democracy](http://datafordemocracy.org/)
   
-* [Data Science by Example: Kaggle Compatitions](https://github.com/alejandrox1/kaggle) <br/>
+* [Data Science by Example: Kaggle Competitions](https://github.com/alejandrox1/kaggle) <br/>
   Ongoing project to curate educational material for Data Science.
   
 * [Implementation of Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms with Example Applications](https://github.com/alejandrox1/MachineLearning) <br/>
    Ongoing project to explore the underlying mathematics and programming details of machine learning.
    
 * [Tweet Authorship](https://github.com/alejandrox1/tweet_authorship) <br/>
-  Determining authorship of tweets.
+  Determining authorship of tweets. (Under development)
    
 * [Calculating the Mechanical Properties of Nanoscale-Materials](https://github.com/alejandrox1/poisson_lammps) <br/>
   Research project: Using molecular dyanmics simulations to estimate the behaviour of materials at the nanoscopic scale.
