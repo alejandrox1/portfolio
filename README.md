@@ -11,7 +11,7 @@ Data science portfolio
 * [Implementation of Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms with Example Applications](https://github.com/alejandrox1/MachineLearning) <br/>
    Ongoing project to explore the underlying mathematics and programming details of machine learning.
    
-* [Tweet Authorship](https://github.com/alejandrox1/tweet_authorship) <br/>
+* [Plagiarism in Twitter](https://github.com/alejandrox1/tweet_authorship) <br/>
   Determining authorship of tweets. (Under development)
    
 * [Calculating the Mechanical Properties of Nanoscale-Materials](https://github.com/alejandrox1/poisson_lammps) <br/>
