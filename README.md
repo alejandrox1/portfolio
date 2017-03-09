@@ -5,6 +5,9 @@ Data science portfolio
 * [Plagiarism in Twitter](https://github.com/alejandrox1/tweet_authorship) <br/>
   Determining authorship of tweets. (Under development)
   
+* [Muslin Ban](https://github.com/alejandrox1/muslin_ban) <br/>
+  (Under development)
+  
 * [Data for Democracy: Using Data Science for Social Good](https://github.com/alejandrox1/tutorials) <br/>
   Part of an ongoing effort with [Data for Democracy](http://datafordemocracy.org/)
   
