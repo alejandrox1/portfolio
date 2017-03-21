@@ -17,12 +17,12 @@ Data science portfolio
      A a data for democracy community working to build tools and infrastructure to enable the study of online communities and their characteristics.
   * [Collect Social](https://github.com/Data4Democracy/collect-social) </br>
     Simply collect social media content.
-  
+ 
+* [Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms From the Ground Up](https://github.com/alejandrox1/MachineLearning) <br/>
+   Ongoing project to explore the underlying mathematics and programming details of machine learning.
+
 * [Data Science by Example: Kaggle Competitions](https://github.com/alejandrox1/kaggle) <br/>
   Ongoing project to curate educational material for Data Science.
-  
-* [Implementation of Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms with Example Applications](https://github.com/alejandrox1/MachineLearning) <br/>
-   Ongoing project to explore the underlying mathematics and programming details of machine learning.
    
 * [Calculating the Mechanical Properties of Nanoscale-Materials](https://github.com/alejandrox1/poisson_lammps) <br/>
   Research project: Using molecular dyanmics simulations to estimate the behaviour of materials at the nanoscopic scale.
