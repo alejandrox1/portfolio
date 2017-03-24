@@ -1,7 +1,8 @@
 # portfolio
 Data science portfolio
 
-## Table of contents
+# Table of contents
+## Ongoing
 * [Plagiarism in Twitter](https://github.com/alejandrox1/tweet_authorship) <br/>
   Determining authorship of tweets. (Under development)
   
@@ -18,12 +19,19 @@ Data science portfolio
   * [Collect Social](https://github.com/Data4Democracy/collect-social) </br>
     Simply collect social media content.
  
+* [Slackbot](https://github.com/alejandrox1/slackbot) </br>
+  Implementing a Python based Slackbot.
+  
+* [YouTube Crawling](https://github.com/alejandrox1/youtube_crawling) </br>
+  Scraping data from YouTube.
+  
 * [Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms From the Ground Up](https://github.com/alejandrox1/MachineLearning) <br/>
    Ongoing project to explore the underlying mathematics and programming details of machine learning.
 
 * [Data Science by Example: Kaggle Competitions](https://github.com/alejandrox1/kaggle) <br/>
   Ongoing project to curate educational material for Data Science.
    
+## Completed
 * [Calculating the Mechanical Properties of Nanoscale-Materials](https://github.com/alejandrox1/poisson_lammps) <br/>
   Research project: Using molecular dyanmics simulations to estimate the behaviour of materials at the nanoscopic scale.
   
