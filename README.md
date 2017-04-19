@@ -1,8 +1,13 @@
-# portfolio
+# Portfolio
 Data science for social good
 
 # Table of contents
 ## Ongoing
+* [Twitter Tools](https://github.com/alejandrox1/twitter_tools)<br/>
+  Scraping, network analysis, NLP, etc.
+  
+ * [Outlook](https://github.com/alejandrox1/outlook)<br/>
+
 * [Plagiarism in Twitter](https://github.com/alejandrox1/tweet_authorship) <br/>
   Determining authorship of tweets. (Under development)
   
@@ -12,21 +17,14 @@ Data science for social good
 * [Data for Democracy: Using Data Science for Social Good](https://github.com/Data4Democracy) </br>
   * [Tutorials](https://github.com/alejandrox1/tutorials) <br/>
     Tutorials for `Data for Data for Democracy`.
-  * [Immigration Connect](https://github.com/Data4Democracy/immigration-connect) </br>
-    Building tools to connect and coordinate efforts to help those affected by immigration law changes.
-  * [Assemble](https://github.com/Data4Democracy/assemble) </br>
-     A a data for democracy community working to build tools and infrastructure to enable the study of online communities and their characteristics.
-  * [Collect Social](https://github.com/Data4Democracy/collect-social) </br>
-    Simply collect social media content.
- 
+ * [Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms From the Ground Up](https://github.com/alejandrox1/MachineLearning) <br/>
+   Ongoing project to explore the underlying mathematics and programming details of machine learning.
+   
 * [Slackbot](https://github.com/alejandrox1/slackbot) </br>
   Implementing a Python based Slackbot.
   
 * [YouTube Crawling](https://github.com/alejandrox1/youtube_crawling) </br>
   Scraping data from YouTube.
-  
-* [Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms From the Ground Up](https://github.com/alejandrox1/MachineLearning) <br/>
-   Ongoing project to explore the underlying mathematics and programming details of machine learning.
 
 * [Data Science by Example: Kaggle Competitions](https://github.com/alejandrox1/kaggle) <br/>
   Ongoing project to curate educational material for Data Science.
