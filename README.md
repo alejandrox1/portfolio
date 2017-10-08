@@ -16,11 +16,9 @@ Data science for social good
 * [Kaggle](https://github.com/alejandrox1/kaggle)
 
 ## Cool Stuff
-* [ConvE](https://github.com/TimDettmers/ConvE)
-
-* [Neural COmplete](https://github.com/kootenpv/neural_complete)
-
 * [TF Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+* [Data Structure in Python](https://github.com/prakhar1989/Algorithms)
 
 * [Interactive COding Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
 
@@ -33,7 +31,13 @@ Data science for social good
 * [Flask book](https://github.com/miguelgrinberg/flasky)
 
 * [Docker Compose Templates](https://github.com/WanderingStar/template)
+
+* [CS Courses](https://github.com/prakhar1989/awesome-courses)
    
+* [ConvE](https://github.com/TimDettmers/ConvE)
+
+* [Neural COmplete](https://github.com/kootenpv/neural_complete)
+
 ## Arxiv
 * [HPC how to](https://github.com/alejandrox1/HPC-howto)
 
