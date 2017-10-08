@@ -2,34 +2,41 @@
 Data science for social good
 
 # Table of contents
-## Ongoing
-* [Twitter Tools](https://github.com/alejandrox1/twitter_tools)<br/>
-  Scraping, network analysis, NLP, etc.
-  
- * [Outlook](https://github.com/alejandrox1/outlook)<br/>
+## My Stuff
+* [dev env](https://github.com/alejandrox1/dev_env)
 
-* [Plagiarism in Twitter](https://github.com/alejandrox1/tweet_authorship) <br/>
-  Determining authorship of tweets. (Under development)
-  
-* [Muslim Ban](https://github.com/alejandrox1/muslin_ban) <br/>
-  (Under development)
-  
-* [Data for Democracy: Using Data Science for Social Good](https://github.com/Data4Democracy) </br>
-  * [Tutorials](https://github.com/alejandrox1/tutorials) <br/>
-    Tutorials for `Data for Data for Democracy`.
- * [Mechine Learning (Supervised, Unsupervised, Deep Learning) Algorithms From the Ground Up](https://github.com/alejandrox1/MachineLearning) <br/>
-   Ongoing project to explore the underlying mathematics and programming details of machine learning.
-   
-* [Slackbot](https://github.com/alejandrox1/slackbot) </br>
-  Implementing a Python based Slackbot.
-  
-* [YouTube Crawling](https://github.com/alejandrox1/youtube_crawling) </br>
-  Scraping data from YouTube.
+* [Learning Go by example](https://github.com/alejandrox1/learning_go_by_example)
 
-* [Data Science by Example: Kaggle Competitions](https://github.com/alejandrox1/kaggle) <br/>
-  Ongoing project to curate educational material for Data Science.
+* [C++ playground](https://github.com/alejandrox1/Algorithmscpp)
+
+* [Machine Learning from Scratch](https://github.com/alejandrox1/MachineLearning)
+
+* [Numerical Analysis](https://github.com/alejandrox1/numerical_computing)
+
+* [Kaggle](https://github.com/alejandrox1/kaggle)
+
+## Cool Stuff
+* [ConvE](https://github.com/TimDettmers/ConvE)
+
+* [Neural COmplete](https://github.com/kootenpv/neural_complete)
+
+* [TF Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+* [Interactive COding Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
+
+* [Generatives Knowledge](https://github.com/wiseodd/generative-models)
+
+* [Python Louvain](https://github.com/taynaud/python-louvain)
+
+* [Cool Ipython Notebook](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+* [Flask book](https://github.com/miguelgrinberg/flasky)
+
+* [Docker Compose Templates](https://github.com/WanderingStar/template)
    
-## Completed
+## Arxiv
+* [HPC how to](https://github.com/alejandrox1/HPC-howto)
+
 * [Calculating the Mechanical Properties of Nanoscale-Materials](https://github.com/alejandrox1/poisson_lammps) <br/>
   Research project: Using molecular dyanmics simulations to estimate the behaviour of materials at the nanoscopic scale.
   
