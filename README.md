@@ -1,5 +1,4 @@
-# Portfolio
-Data science for social good
+# Projects
 
 # Table of contents
 ## My Stuff
