@@ -1,12 +1,15 @@
 # Projects
 
 # Table of contents
+## Go Packages
+* [parse sql](https://github.com/alejandrox1/parse_sql) Utility package for parsing SQL commands from scripts.
+
 ## My Stuff
-* [dev env](https://github.com/alejandrox1/dev_env)
+* [dev env](https://github.com/alejandrox1/dev_env) Repository containing a variety of bash scripts for environment setup.
 
-* [Learning Go by example](https://github.com/alejandrox1/learning_go_by_example)
+* [Learning Go by example](https://github.com/alejandrox1/learning_go_by_example) Compilation of fun problems, applications, etc using Go.
 
-* [C++ playground](https://github.com/alejandrox1/Algorithmscpp)
+* [C++ playground](https://github.com/alejandrox1/Algorithmscpp) Compilation of cool stuff dealing with C/C++.
 
 * [Machine Learning from Scratch](https://github.com/alejandrox1/MachineLearning)
 
